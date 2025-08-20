@@ -31,5 +31,16 @@
   
   
     
+    
+    <entry>
+      <title>bangumi</title>
+      <link href="/bangumi/index.html"/>
+      <url>/bangumi/index.html</url>
+      
+        <content type="html"><![CDATA[<hr><h2 id="title-我的B站追番date-2024-01-01-00-00-00comments-falseaside-falsetop-img-false"><a href="#title-我的B站追番date-2024-01-01-00-00-00comments-falseaside-falsetop-img-false" class="headerlink" title="title: 我的B站追番date: 2024-01-01 00:00:00comments: falseaside: falsetop_img: false"></a>title: 我的B站追番<br>date: 2024-01-01 00:00:00<br>comments: false<br>aside: false<br>top_img: false</h2><div id="bilibili-bangumi"></div>]]></content>
+      
+    </entry>
+    
+    
   
 </search>
